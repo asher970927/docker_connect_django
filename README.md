@@ -1,8 +1,7 @@
 # docker_connect_django
 
-일반적인 내용
 ``` make docker image
-  docker build --tag django-docker .
+docker build --tag django-docker .
 ```
  
   
